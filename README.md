@@ -10,4 +10,5 @@
 #### 商业计划书： https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/md-file/bp.md
 #### 需要你贡献的地方：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/todo/todo.md
 #### 激励：任何参与者未来都会获得经过协商的公司营收分成
-#### 微信：amtisy
+#### 微信群：
+![wechat-group.png](wechat-group.png)
