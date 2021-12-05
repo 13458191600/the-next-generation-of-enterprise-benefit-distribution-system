@@ -4,7 +4,7 @@
 - 还是跟我一起引领下一代企业制度变革，顺便改变世界？
   
 - 这个时代，从来不是由安于现状的人创造，而是被那些敢为人先、勇于挑战的人改变。
-- 未来，你就是其中之一。
+- 加入我们，你就是其中之一。
 
 
 #### 商业计划书： https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/md-file/bp.md
