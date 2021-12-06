@@ -7,6 +7,7 @@
 - 加入我们，你就是其中之一。
 
 #### 激励：任何参与者未来都会获得经过协商的公司营收分成
+#### 大白话：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/core/plain.md
 #### 商业计划书： https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/md-file/bp.md
 #### 需要你贡献的地方：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/todo/todo.md
 #### 犯过的错误：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/mistake/mistake.md
