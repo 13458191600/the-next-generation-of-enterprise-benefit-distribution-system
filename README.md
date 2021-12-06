@@ -9,7 +9,10 @@
 
 #### 商业计划书： https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/md-file/bp.md
 #### 需要你贡献的地方：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/todo/todo.md
-#### 激励：任何参与者未来都会获得经过协商的公司营收分成
-#### 截至目前表现出兴趣的人： 
+#### 犯过的错误：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/mistake/mistake.md
+#### 截至目前表现出兴趣的人： https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/people/people.md
+#### 个人亲历吐槽：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/venting/venting.md
 #### 微信群：
 ![wechat-group.png](wechat-group.png)
+#### 微信群公约：https://github.com/amtisyAts/reshape/blob/main/bussiness-plan/wechart-convention/we-chart-convention.md
+#### 激励：任何参与者未来都会获得经过协商的公司营收分成
